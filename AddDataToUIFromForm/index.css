@@ -1,0 +1,47 @@
+/* Fill CSS here */
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+table{
+    width: 70%;
+    height: 10px;
+}
+thead>tr>th{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+ tbody>tr{
+    padding: 10px auto;
+}
+tbody>tr>td{
+    text-align: center;
+    
+}  
+form{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    height: 320px;
+}
+form>input{
+    margin-bottom: 10px;
+
+}
+form>input:last-child{
+    padding: 5px 65px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+
+tbody>tr>td:last-child{
+background-color: red;
+color: white;
+}
