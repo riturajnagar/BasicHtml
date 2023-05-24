@@ -1,0 +1,5 @@
+News Layout         ->   https://cosmic-horse-48e33f.netlify.app/
+Hotel Layout        ->	 https://funny-fudge-de6de3.netlify.app/
+Responsive Web Page ->   https://neon-bublanina-566df0.netlify.app/
+Masai Score Check   ->	 https://stately-pegasus-4f03cc.netlify.app/
+Investing Saving    ->	 https://admirable-tartufo-ac33b9.netlify.app/
